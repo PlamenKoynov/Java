@@ -1,0 +1,12 @@
+This 
+                          is 
+a test file
+Next line
+    
+is empty
+
+	
+and the previous one has tab in it
+                                                 
+^only spaces
+So the answer is: 3
